@@ -4,8 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-## `install react-router-dom, then primeflex, primeicons, and primereact to run the Login page.`
-
 In the project directory, you can run:
 
 ### `npm start`
@@ -71,3 +69,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## `install react-router-dom, then primeflex, primeicons, and primereact to run the Login page.`
