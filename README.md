@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-## `install primeflex, primeicons, primereact to run the Login page.`
+## `install react-router-dom, then primeflex, primeicons, and primereact to run the Login page.`
 
 In the project directory, you can run:
 
